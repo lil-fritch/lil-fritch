@@ -19,4 +19,4 @@
 
 ### 📫 How to reach me:
 - Email: fritch.high@gmail.com
-- Telegram: @lil_fritch
+- Telegram: [@lil_fritch](https://t.me/lil_fritch)
