@@ -14,8 +14,8 @@
 
 ### 📂 Portfolio Projects:
 - [Telegram Mini App - Casino Platform](https://github.com/lil-fritch/casino-mini-app)
-- [Referral Telegram Bot](посилання на репо)
-- [Web Scraping Scripts Collection](посилання на репо)
+- [Referral Telegram Bot](https://github.com/lil-fritch/telegram-referral-bot)
+- [Web Scraping Scripts Collection](https://github.com/lil-fritch/web-scraping-projects)
 
 ### 📫 How to reach me:
 - Email: fritch.high@gmail.com
