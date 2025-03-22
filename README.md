@@ -13,7 +13,7 @@
 - Git
 
 ### 📂 Portfolio Projects:
-- [Telegram Mini App - Casino Platform](посилання на репо)
+- [Telegram Mini App - Casino Platform](https://github.com/lil-fritch/casino-mini-app)
 - [Referral Telegram Bot](посилання на репо)
 - [Web Scraping Scripts Collection](посилання на репо)
 
