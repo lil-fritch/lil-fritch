@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Bohdan 👋
 
-<!--
-**lil-fritch/lil-fritch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- Junior Python Developer with hands-on experience in Django and Telegram bots
+- Skilled in web scraping and automation (requests, BeautifulSoup, Selenium)
+- Passionate about backend development and always learning new technologies
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- Python | Django | Aiogram
+- JavaScript | CSS
+- PostgreSQL | SQLite3
+- Web Scraping: BeautifulSoup | Selenium
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Portfolio Projects:
+- [Telegram Mini App - Casino Platform](посилання на репо)
+- [Referral Telegram Bot](посилання на репо)
+- [Web Scraping Scripts Collection](посилання на репо)
+
+### 📫 How to reach me:
+- Email: fritch.high@gmail.com
+- Telegram: @lil_fritch
